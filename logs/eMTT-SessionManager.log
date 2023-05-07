@@ -1,0 +1,6 @@
+2023-03-19T16:23:03.795Z [debug] [Logging Appender] : Starting Session-Manager (Start)
+2023-03-19T16:23:21.850Z [debug] [Logging Appender] : Starting Session-Manager (Stop)
+2023-03-19T16:24:00.047Z [debug] [Logging Appender] : Running every minute
+2023-03-19T16:24:00.050Z [debug] [Logging Appender] : (Rows matched: 0  Changed: 0  Warnings: 0
+2023-03-19T16:24:00.998Z [debug] [Logging Appender] : Running every minute
+2023-03-19T16:24:01.000Z [debug] [Logging Appender] : (Rows matched: 0  Changed: 0  Warnings: 0
